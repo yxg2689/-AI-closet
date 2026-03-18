@@ -1,0 +1,7 @@
+{
+  "name": "AI 智慧衣櫥",
+  "description": "一款數位衣櫥應用程式，使用 AI 分析您的衣服並根據天氣和場合推薦穿搭。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
